@@ -1,17 +1,37 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
+Estágio em análise de dados de sequenciamento genético
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+**Nome: Fernanda Paula de Carvalho**
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+**E-mail:** fe.carvalho@usp.br / fe.carvalho.ufpe@gmail.com
+* Demais dados seguem por e-mail.
+
+**Formação** 
+* Doutorado em Ciências Biológicas (Genética) pela Faculdade de Medicina de Ribeirão Preto (FMRP/USP), conclusão prevista em Fevereiro/2016.
+* Mestrado em Ciências Biológicas (Genética) pela Faculdade de Medicina de Ribeirão Preto (FMRP/USP), concluído em 2011.
+* Bacharelado em Biomedicina pela Universidade Federal de Pernambuco (UFPE), concluído em 2008.
+
+**Experiência**
+* Cultivo de células (linhagens tumorais e linfócitos)
+* PCR-RFLP e qPCR
+* Análise de dados de citometria de fluxo (software FlowJo)
+* Conhecimento em Biologia e Genética do câncer de mama
+* Conhecimento básico em Linux Ubuntu
+* Conhecimento básico em ambiente estatístico R
+
+**Interesse na área de bioinformática**
+Estou em fase de conclusão do curso de Doutorado e tenho grande interesse em inserir-me na área de Bioinformática, especialmente em análise e diagnóstico molecular. Para isso, tenho participado de cursos introdutórios sobre Linux, programação e estatística em R. Futuramente pretendo iniciar um projeto de pós-doutorado sobre identificação de assinaturas genômicas do câncer. No entanto, nos próximos meses gostaria de aprofundar meus conhecimentos realizando um estágio para conhecer a rotina laboratorial e as ferramentas de análise computacional disponíveis no momento. Aproveitando que estarei em Recife em breve, seria uma oportunidade bastante enriquecedora para minha formação estagiar na empresa Genomika, por sua importante atuação em pesquisa e diagnóstico molecular.
+  
+**Outras informações**
+* Em 2008, foi classificada no concurso público para o emprego de técnico em Produção de Hemoderivados e Biotecnologia/ Farmácia/ Análises Clínicas na Empresa Brasileira de Hemoderivados e Biotecnologia - HEMOBRÁS (Recife-PE), porém não efetivada no cargo por estar matriculada no curso de Mestrado.
+* Faixa verde (3º Kyu) em Aikido.
+* Solteira, 30 anos, sem filhos, natural de Recife-PE.
+
+**Links**
+* [Currículo Lattes](http://lattes.cnpq.br/3840867034129036)
+* [LinkedIn](https://br.linkedin.com/in/fernanda-paula-de-carvalho-37599134)
